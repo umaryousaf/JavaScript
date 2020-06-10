@@ -12,25 +12,30 @@ var z = "My age is" + " " + Age;
 alert(z);
 
 // Task 3
-alert("Certified Mobile Application Development");
+var message;
+message = "Hello World";
+alert(message);
 
 // Task 4
+alert("Certified Mobile Application Development");
+
+// Task 5
 var name = ["PIZZA\nPIZZ\nPIZ\nPI\nP"];
 alert(name);
 
-// Task 5
+// Task 6
 var email = "example@example.com";
 alert(email);
 
-// Task 6
+// Task 7
 var book = "I am trying to learn from the book A smarter way to learn JavaScript."
 alert(book);
 
-// Task 7
+// Task 8
 var content = "Yah! I can write HTML content through JavaScript";
 document.write(content);
 
-// Task 8
+// Task 9
 var line = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 alert(line);
 document.write(line);
